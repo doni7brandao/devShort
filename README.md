@@ -30,7 +30,7 @@ O que é um encurtador de URL? Visite nosso [artigo wiki](https://github.com/don
 
 ## 1-2-3 Instalação em apenas um clique
 
-1. Baixa a versão mais recente [release](https://github.com/flokX/devShort/releases) e copie os arquivos para o diretório
+1. Baixa a versão mais recente [versão](https://github.com/flokX/devShort/releases) e copie os arquivos para o diretório
 2. Insira uma senha de administrador no `admin/config.json`
 3. Rode o arquivo `installer.php`
 
