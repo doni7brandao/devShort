@@ -37,10 +37,10 @@ O que é um encurtador de URL? Visite nosso [wiki article](https://github.com/fl
 É isso aí! Se você quiser saber o que DevShort pode fazer, visite nosso site [wiki](https://github.com/flokX/devShort/wiki).
 
 
-## Screenshots
+## Captura de Telas
 
-| Admin panel | Index       |
-|:-----------:|:-----------:|
+| Painel Administrativo | Página Inicial     |
+|:---------------------:|:------------------:|
 | ![Screenshot - Admin panel](https://github.com/doni7brandao/devShort/blob/master/desenvolvimento/admin.png) | ![Screenshot - Index](https://github.com/doni7brandao/devShort/blob/master/desenvolvimento/index.png) |
 
 
