@@ -41,7 +41,7 @@ O que é um encurtador de URL? Visite nosso [wiki article](https://github.com/fl
 
 | Admin panel | Index       |
 |:-----------:|:-----------:|
-| ![Screenshot - Admin panel](https://github.com/doni7brandao/devShort/blob/master/development/devShort-admin-panel.png) | ![Screenshot - Index](https://github.com/doni7brandao/devShort/blob/master/development/devShort-index.png) |
+| ![Screenshot - Admin panel](https://github.com/doni7brandao/devShort/blob/master/desenvolvimento/admin.png) | ![Screenshot - Index](https://github.com/doni7brandao/devShort/blob/master/desenvolvimento/index.png) |
 
 
 ## Sobre o devShort
