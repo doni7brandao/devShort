@@ -1,10 +1,10 @@
 # devShort
 
-[![GitHub - Release](https://img.shields.io/github/release/flokX/devShort.svg)](https://github.com/flokX/devShort/releases) [![GitHub - Licença](https://img.shields.io/github/license/flokX/devShort.svg)](https://github.com/flokX/devShort/blob/master/LICENSE) ![Privacidade amigável](https://img.shields.io/badge/privacy-friendly-brightgreen.svg)
+[![GitHub - Release](https://img.shields.io/github/release/flokX/devShort.svg)](https://github.com/flokX/devShort/releases) [![GitHub - Licence](https://img.shields.io/github/license/flokX/devShort.svg)](https://github.com/flokX/devShort/blob/master/LICENSE) ![Privacy friendly](https://img.shields.io/badge/privacy-friendly-brightgreen.svg)
 
 O encurtador de URL devShort é a escolha perfeita para desenvolvedores web, administradores e profissionais. É simples e de privacidade amigável, mas muito poderoso, uma vez que incide sobre as coisas mais importantes.
 
-O que é um encurtador de URL? Visite nosso [wiki article](https://github.com/flokX/devShort/wiki/What-is-URL-shortening%3F) para mais informações.
+O que é um encurtador de URL? Visite nosso [artigo wiki](https://github.com/doni7brandao/devShort/wiki/Encurtamento-de-URL) para mais informações.
 
 
 ## 1-2-3 Principais Características
