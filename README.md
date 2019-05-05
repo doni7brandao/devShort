@@ -28,7 +28,7 @@ O que é um encurtador de URL? Visite nosso [artigo wiki](https://github.com/don
 3. Não se preocupe com o software porque é fino e fácil de configurar
 
 
-## 1-2-3 Click installation
+## 1-2-3 Instalação em apenas um clique
 
 1. Baixa a versão mais recente [release](https://github.com/flokX/devShort/releases) e copie os arquivos para o diretório
 2. Insira uma senha de administrador no `admin/config.json`
