@@ -2,39 +2,39 @@
 
 [![GitHub - Release](https://img.shields.io/github/release/flokX/devShort.svg)](https://github.com/flokX/devShort/releases) [![GitHub - License](https://img.shields.io/github/license/flokX/devShort.svg)](https://github.com/flokX/devShort/blob/master/LICENSE) ![Privacy frienly](https://img.shields.io/badge/privacy-friendly-brightgreen.svg)
 
-The devShort URL shortener is the perfect choice for web developers, admins and professionals. It is simple and privacy friendly but very powerful since it focuses on the most important things.
+O encurtador de URL devShort é a escolha perfeita para desenvolvedores web, administradores e profissionais. É simples e de privacidade amigável, mas muito poderoso, uma vez que incide sobre as coisas mais importantes.
 
-What is a URL shortener? Visit our [wiki article](https://github.com/flokX/devShort/wiki/What-is-URL-shortening%3F) for more information.
-
-
-## 1-2-3 Main features
-
-1. Slim but powerful
-    * No database required
-    * Fast installation
-    * Integrated statistics viewer
-     * No feature overhead
-2. Widely configurably for your needs with only one file
-3. Privacy friendly
-    * Only the access count and date is tracked
-    * The whole code is verifiable in minutes
-    * Privacy and security by default
+O que é um encurtador de URL? Visite nosso [wiki article](https://github.com/flokX/devShort/wiki/What-is-URL-shortening%3F) para mais informações.
 
 
-## 1-2-3 Reasons to install
+## 1-2-3 Principais Características
 
-1. Give everyone a good-looking and easy to remember link
-2. Know when and how many times the links are used
-3. Have no hassle with the software because it's slim and easy to configure
+1. Simples, mas poderoso
+    * Sem necessidade de banco de dados
+    * Instalação rápida
+    * Visualizador de estatísticas integrado
+    * Nenhuma sobrecarga de recurso
+2. Amplamente configurável para as suas necessidades com apenas um arquivo
+3. Privacidade amigável
+    * Apenas a contagem e a data de acesso são rastreadas
+    * O código inteiro é verificável em minutos
+    * Privacidade e segurança por padrão
+
+
+## 1-2-3 Razões para instalar
+
+1. Dê a todos um link de boa aparência e fácil de lembrar
+2. Saiba quando e quantas vezes os links são usados
+3. Não se preocupe com o software porque é fino e fácil de configurar
 
 
 ## 1-2-3 Click installation
 
-1. Download the latest [release](https://github.com/flokX/devShort/releases) and copy the files into the directory
-2. Insert a admin password in the `admin/config.json`
-3. Run the `installer.php`
+1. Baixa a versão mais recente [release](https://github.com/flokX/devShort/releases) e copie os arquivos para o diretório
+2. Insira uma senha de administrador no `admin/config.json`
+3. Rode o arquivo `installer.php`
 
-That's it! If you want to know what devShort can do visit our [wiki](https://github.com/flokX/devShort/wiki).
+É isso aí! Se você quiser saber o que DevShort pode fazer, visite nosso site [wiki](https://github.com/flokX/devShort/wiki).
 
 
 ## Screenshots
@@ -44,10 +44,10 @@ That's it! If you want to know what devShort can do visit our [wiki](https://git
 | ![Screenshot - Admin panel](https://raw.githubusercontent.com/flokX/devShort/master/development/devShort-admin-panel.png) | ![Screenshot - Index](https://raw.githubusercontent.com/flokX/devShort/master/development/devShort-index.png) |
 
 
-## About
+## Sobre o devShort
 
-Maintainer: Florian Kaldowski ([flokX](https://github.com/flokX))
+Mantenedor: Florian Kaldowski ([flokX](https://github.com/flokX))
 
-License: The MIT license
+Licença: The MIT license
 
-Third-party credits: Favicon by [IO-Images](https://pixabay.com/images/id-1083508/); [Bootstrap libary](https://getbootstrap.com); [Frappe Charts libary](https://github.com/frappe/charts)
+Créditos de terceiros: Favicon por [IO-Images](https://pixabay.com/images/id-1083508/); [Bootstrap libary](https://getbootstrap.com); [Frappe Charts libary](https://github.com/frappe/charts)
